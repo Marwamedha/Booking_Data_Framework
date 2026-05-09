@@ -3,8 +3,13 @@
     "title": "Uber Rides Analytics Dashboard",
     "widgets": [
       {"name": "Total Rides", "type": "metric"},
+      {"name": "Total Revenue", "type": "metric"},
       {"name": "Average Fare", "type": "metric"},
-      {"name": "Cash Payment Distribution", "type": "bar"}
+      {"name": "Average Tip Percentage", "type": "metric"},
+      {"name": "Cash Payment Distribution", "type": "bar"},
+      {"name": "Card Payment Count", "type": "metric"},
+      {"name": "Daily Ride Trend", "type": "line"},
+      {"name": "Zone Performance Map", "type": "map"}
     ]
   }
 }
