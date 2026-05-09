@@ -1,0 +1,10 @@
+{
+  "dashboard": {
+    "title": "Uber Rides Analytics Dashboard",
+    "widgets": [
+      {"name": "Total Rides", "type": "metric"},
+      {"name": "Average Fare", "type": "metric"},
+      {"name": "Cash Payment Distribution", "type": "bar"}
+    ]
+  }
+}
